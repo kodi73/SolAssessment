@@ -1,4 +1,4 @@
-# Token
+# Token.sol
 
 This is a simple Solidity program to getting started with creating our token. It takes a super beginner approach at understanding the internal workings in the operations of a cryptocurrency. This is a simple contract to explore the starting point of Web3 Development.
 
