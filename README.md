@@ -43,7 +43,7 @@ contract MyToken {
 
 ```
 
-Hit Control + S to compile. Then deploy the contract by clicking "Deploy & run transactions" on the left hand side bar. Click on the "Deploy" button. The contract is now deployed. Use the mint and burn functions to add address and value and look for the changes to get reflected in the totalSupply variable.
+Hit Control + S to compile. Then deploy the contract by clicking "Deploy & run transactions" on the left hand side bar. Click on the "Deploy" button. The contract is now deployed. Use the mint function to mint some tokens and the burn function to burn the cyptocurrency.
 
 ## Authors
 
